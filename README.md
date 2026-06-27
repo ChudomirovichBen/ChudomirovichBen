@@ -12,16 +12,16 @@ Currently, I'm building my portfolio in Python, Data Science, Machine Learning, 
 Python • MATLAB • Git • GitHub • LaTeX
 
 ## Currently Learning
-📊 Data Science
-🤖 Machine Learning
-🐍 Advanced Python
-📈 Mathematical Optimization
+- 📊 Data Science
+- 🤖 Machine Learning
+- 🐍 Advanced Python
+- 📈 Mathematical Optimization
 
 ## Fun Facts
-🎮 Genshin Impact player
-🎬 Movie enthusiast
-🍜 Food lover
-✈️ Travel dreamer
+- 🎮 Genshin Impact player
+- 🎬 Movie enthusiast
+- 🍜 Food lover
+- ✈️ Travel dreamer
 
 ## Let's Connect!
 - LinkedIn: #underconstruction
